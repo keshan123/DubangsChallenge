@@ -124,7 +124,33 @@ color:grey;
 #columnpush{
   padding-left: 15px;
 }
-
+.column1{
+  width: 30%;
+  float: left;
+  height: 150px;
+  text-align: center;
+  padding-top: 20px;
+  font-size: 20px;
+  font-family: 'helvetica';
+  font-weight:500;
+}
+.column2{
+  width:23.32%;
+  float:right;
+  height: 150px;
+  text-align: center;
+  padding-top: 20px;
+  font-size: 20px;
+  font-family: 'helvetica';
+  font-weight:500;
+}
+footer{
+  padding-top: 25px;
+}
+#footer div{
+  background-color: black;
+  color:white;
+}
 /*Animations*/
 
 .animated{-webkit-animation-fill-mode:both;-moz-animation-fill-mode:both;-ms-animation-fill-mode:both;-o-animation-fill-mode:both;animation-fill-mode:both;-webkit-animation-duration:1s;-moz-animation-duration:1s;-ms-animation-duration:1s;-o-animation-duration:1s;animation-duration:1s}
