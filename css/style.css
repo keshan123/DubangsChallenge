@@ -130,7 +130,7 @@ color:grey;
   height: 150px;
   text-align: center;
   padding-top: 20px;
-  font-size: 20px;
+  font-size: 25px;
   font-family: 'helvetica';
   font-weight:500;
 }
@@ -150,6 +150,46 @@ footer{
 #footer div{
   background-color: black;
   color:white;
+}
+
+#icons{
+  padding-top: 15px;
+}
+
+i{
+  padding: 5px;
+}
+#thumbtext{
+  float:right;
+  text-align: center;
+}
+#thumbtext2{
+  max-width: 100px;
+  padding-right: 100px;
+  font-size: 13px;
+  color:  #595959;
+}
+
+#address{
+  padding-top: 30px;
+  font-size: 15px;
+}
+
+#email{
+  padding-top: 30px;
+  font-size: 15px;
+}
+#hours{
+  padding-top: 25px;
+  font-size:16px;
+}
+#bottom{
+  text-decoration: none;
+  font-family: 'helvetica';
+  font-size:12px;
+}
+#bottom a {
+  padding-right: 5px;
 }
 /*Animations*/
 
